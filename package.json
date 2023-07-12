@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "react": "^18.2.0"
+  },
+  "name": "fitness_trainer_website",
+  "description": "just a bse for practice, planning on adding functional appointment system",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
